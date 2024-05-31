@@ -1,5 +1,5 @@
 
-# Unriddle Take Home Test 1
+# Unriddle Take Home Test 1 Version 1
 
 This is an AI Chat Component built using NextJS App Router. In this I've used Tiptap, Novel, and OpenAI API. I implemented Bubble Editor Menu from Tiptap and a side component of Ask AI.
 
